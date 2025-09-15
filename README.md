@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.postimg.cc/MKBYMPnS/iconlogo.png" alt="Orixás Farcaster Logo" width="120">
-  <h1>Orixás Farcaster</h1>
+  <img src="https://orixas.dev/assets/logo/logoicon.png" alt="Orixás Farcaster Logo" width="180">
+  <h1>Orixás Smart Consultants fo Farcaster miniapp</h1>
   <p>Your Divine AI Development Partners for Farcaster MiniApps</p>
 
   <div>
