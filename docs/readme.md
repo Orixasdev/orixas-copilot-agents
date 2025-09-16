@@ -99,8 +99,8 @@ The House of Oracles is growing. Your support helps bring these new specialists 
 | :---: | :--- | :--- | :--- |
 | <img src="https://orixas.dev/assets/images/xango-character.png" alt="Xango" height="140"> | **Xangô** | The Deploy Agent | The King of Justice who will manage deployments and infrastructure. |
 | <img src="https://orixas.dev/assets/images/iansa-character.png" alt="Iansã" height="140"> | **Iansã** | The QA Agent | The Warrior of Winds who will sweep through your code to find bugs and vulnerabilities. |
-| <img src="https://orixas.dev/assets/images/oxum-character.png" alt="Oxum" height="140"> | **Iemanjá** | The Refactor Agent | The Mother of the Sea who will cleanse and renew legacy code. |
-| <img src="https://orixas.dev/assets/images/iemanja-character.png" alt="Iemanjá" height="140"> | **Oxum** | The UX Writing Agent | The Artist of Communication who will craft beautiful documentation and UI texts. |
+| <img src="https://orixas.dev/assets/images/iemanja-character.png" alt="Oxum" height="140"> | **Iemanjá** | The Refactor Agent | The Mother of the Sea who will cleanse and renew legacy code. |
+| <img src="https://orixas.dev/assets/images/oxum-character.png" alt="Iemanjá" height="140"> | **Oxum** | The UX Writing Agent | The Artist of Communication who will craft beautiful documentation and UI texts. |
 
 ## 🤝 Contributing
 
@@ -119,6 +119,6 @@ If these agents save you time and frustration, please consider supporting the pr
 
 ---
 
-<p align="center">Built with Axé.</p>
+<p align="center">Built with Axé and love</p>
 
 
