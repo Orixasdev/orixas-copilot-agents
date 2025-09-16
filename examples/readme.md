@@ -19,15 +19,15 @@ To help you navigate our project, it's important to understand the purpose of ea
 
 Every example in the forge follows a consistent structure, allowing you to see not just the final product, but the divine process behind its creation:
 
+<pre>
 └── 01-example-name/
-├── app/                # The final, working source code.
-├── package.json
-├── orixas-artifacts/
-│   ├── oxala-plan.md   # The detailed specification from the Architect Agent.
-│   └── ogum-log.md     # The key prompts used to command the Executor Agent.
-└── README.md           # A local guide on what the example does and how to run it.
-
----
+    ├── app/                # The final, working source code.
+    ├── package.json
+    ├── orixas-artifacts/
+    │   ├── oxala-plan.md   # The detailed specification from the Architect Agent.
+    │   └── ogum-log.md     # The key prompts used to command the Executor Agent.
+    └── README.md           # A local guide on what the example does and how to run it.
+</pre>
 
 ## 🔮 Planned Examples
 
