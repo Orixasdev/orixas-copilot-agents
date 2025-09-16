@@ -8,12 +8,13 @@ This document is the central memory and technical logbook for the project, manag
 -   **Main Stack:** Next.js (App Router), `frames.js`, Tailwind CSS, ShadCN/UI.
 -   **Backend:** Supabase (PostgreSQL, Auth, Edge Functions).
 
-## Tarefas Pendentes
+## Pending Tasks
 
--   [ ] **FEATURE:** Implementar a funcionalidade de "like" nos cards da Casa dos Oráculos. (Adicionado por Oxalá em 2025-09-15)
--   [ ] **BUG:** Corrigir o alinhamento do texto no Herói em ecrãs ultra-wide. (Adicionado por Oxalá em 2025-09-14)
+-   [ ] **FEATURE:** Implement the "like" functionality on the House of Oracles cards. (Added by Oxalá on 2025-09-15)
+-   [ ] **BUG:** Fix the text alignment in the Hero section on ultra-wide screens. (Added by Oxalá on 2025-09-14)
 
-## Decisões Arquiteturais e Aprendizados
+## Architectural Decisions and Learnings
 
--   **Aprendizado (2025-09-14):** O `npm run dev` bloqueia o terminal do agente. **AÇÃO:** O Ogum foi instruído a usar sempre `npm run build` para validação final.
--   **Decisão (2025-09-15):** A secção do roadmap será construída com um layout de "trading card" para manter a consistência com a estética Web3.
+-   **Learning (2025-09-14):** The `npm run dev` command blocks the agent's terminal. **ACTION:** Ogum has been instructed to always use `npm run build` for final validation.
+-   **Decision (2025-09-15):** The roadmap section will be built with a "trading card" layout to maintain consistency with the Web3 aesthetic.
+
